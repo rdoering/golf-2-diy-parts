@@ -40,6 +40,9 @@ Die originale Halterung der Scheinwerfer ist eine bekannte Schwachstelle beim Go
 *   **Verfügbarkeit:** Einzeln kaum noch zu bekommen, oft muss ein kompletter Scheinwerfer gekauft werden.
 
 #### Das neue Design (Verbesserung)
+
+![](parts/Scheinwerferhalterung/screenshot.png)
+
 Unser Redesign geht das Problem strukturell an:
 *   **Zweiteiliger Aufbau:** Das Bauteil wurde in zwei Komponenten getrennt:
     1.  Die **Kugelkopfhalterung** (für die Verstellschraube).
